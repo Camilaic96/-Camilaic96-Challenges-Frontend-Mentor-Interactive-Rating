@@ -30,13 +30,14 @@ main {
 #card, #card-ty {
     border: 0;
     width: 21rem;
-    height: 22rem;
+    height: 25rem;
     border-radius: 15px;
     background-color: var(--color-darkBlue);
     color: var(--color-white);
     display: flex;
     flex-direction: column;
     padding: 20px;
+    justify-content: space-between;
 }
 
 i {
@@ -83,6 +84,8 @@ p {
     display:flex;
     align-items:center;
     justify-content: center;
+    height: 48px;
+    width: 48px;
 }
 
 .btn:hover {
