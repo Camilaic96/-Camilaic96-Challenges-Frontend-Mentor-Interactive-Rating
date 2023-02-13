@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./assets/screenshot/mobile-thank-you-state.png)
 
 ### Links
-- Solution URL: [Add solution URL here]https://github.com/Camilaic96/Camilaic96/Challenges-Frontend-Mentor-Interactive-Rating)
-- Live Site URL: [Add live site URL here](https://camilaic96.github.io/Challenges-Frontend-Mentor-Interactive-Rating/)
+- Solution URL: https://github.com/Camilaic96/-Camilaic96-Challenges-Frontend-Mentor-Interactive-Rating
+- Live Site URL: https://camilaic96.github.io/-Camilaic96-Challenges-Frontend-Mentor-Interactive-Rating/
 
 ## My process
 First, I initialized my project as a public repository on GitHub.
